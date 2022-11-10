@@ -9,5 +9,5 @@ elseif game.PlaceId == 9498006165 then --Tapping Simulator
 elseif game.PlaceId == 8726743209 then --Refinery Caves
 
 else
-    game.Players.LocalPlayer:Kick("Game not supported by Arches Systems.")
+    game.Players.LocalPlayer:Kick("Game not supported.")
 end
