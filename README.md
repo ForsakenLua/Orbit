@@ -5,4 +5,4 @@ https://discord.gg/hR8kRYMqP4
 
 Loadstring:
 
-```Coming Soon````
+```Coming Soon```
